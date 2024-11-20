@@ -6,10 +6,8 @@ Hi! I'm Snigdha Setty Chandaluri, currently pursuing a Master's degree in Comput
 ---
 
 ### Skills and Technologies
-- **Programming and Development**: JavaScript, Python, C++, HTML5, CSS3, SASS  
-- **Frameworks and Libraries**: React.js, Express.js, MERN Stack  
-- **Databases**: MongoDB, MySQL, Firebase  
-- **Other Tools and Technologies**: REST APIs, Stripe Integration, WEBRTC, Shopify  
+- **Programming and Development**: JavaScript, Python, C++, HTML 
+- **Frameworks and Libraries**: React.js, Express.js, MERN Stack    
 - **Software Engineering Practices**: Project Management, Data Structures and Algorithms, Complexity Analysis, Object-Oriented Programming (OOP), Testing  
 - **Frontend Tools**: Frontend Design and Development  
 - **Backend Expertise**: API Design, Backend Development  
