@@ -1,7 +1,7 @@
 # Snigdha Setty Chandaluri
 
 ### Introduction
-Hi! I'm Snigdha Setty Chandaluri, currently pursuing a Master's degree in Computer Science with a major in Data Science at the University of Missouri, Kansas City. I completed my undergraduate degree in Computer Science in India. I'm passionate about leveraging data to drive insights and decisions and actively seeking Data Analyst roles.
+Hi! I'm Snigdha Setty Chandaluri, currently pursuing a Master's degree in Computer Science with a major in Data Science at the University of Missouri, Kansas City. I completed my undergraduate degree in Computer Science in India. I'm passionate about leveraging data to drive insights and decisions and actively seeking Data Analyst roles. 
 
 ---
 
